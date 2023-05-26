@@ -1,0 +1,1105 @@
+#sayfa{position: relative;
+    width: 3674px;
+    height: 4597px;
+    
+    background: #FFFFFF;
+
+}
+
+#line{
+    position: absolute;
+    width: 3695px;
+    height: 0px;
+    left: -21px;
+    top: 295px;
+    
+    border: 1px solid #AEAEAE;
+}
+
+
+#logo{
+    position: absolute;
+   width: 694px;
+   top: -190px;
+   border-radius: 241px;
+   }
+
+ #numara{ 
+
+ position: absolute;
+width: 327px;
+height: 76px;
+left: 1250px;
+top: 113px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 62.825px;
+line-height: 76px;
+
+color: #7D7D7D;
+ }
+
+ #numara:hover{
+   color: red;
+ }
+
+ #yardim{
+    position: absolute;
+width: 214px;
+height: 76px;
+left: 1648px;
+top: 116px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 62.825px;
+line-height: 76px;
+
+color: #7D7D7D;
+
+ }
+
+ #yardim:hover{
+    color: red;
+  }
+
+ #rezervasyonicon{
+    position: absolute;
+left: 1933px;
+top: 107px
+ }
+
+ #rezervasyonicon:hover{
+    color: red;
+  }
+
+ #rezervasyon{
+    position: absolute;
+width: 399px;
+height: 76px;
+left: 2022px;
+top: 116px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 62.825px;
+line-height: 76px;
+
+color: #7D7D7D
+ }
+
+ #rezervasyon:hover{
+    color: red;
+  }
+
+ 
+ 
+
+ #hakkimizda{
+    position: absolute;
+width: 360px;
+height: 76px;
+left: 2463px;
+top: 116px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 62.825px;
+line-height: 76px;
+
+color: #7D7D7D;
+ }
+
+ #hakkimizda:hover{
+    color: red;
+  }
+
+ 
+
+ #bildirim{
+ position: absolute;
+
+left: 2823px;
+top: 92px;
+
+
+ }
+
+ #bildirim:hover{
+    color: red;
+  }
+
+
+
+ 
+ #girisyap{
+    position: absolute;
+width: 275px;
+height: 76px;
+left: 3011px;
+top: 113px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 62.825px;
+line-height: 76px;
+color: #7D7D7D;
+
+ }
+
+ #girisyap:hover{
+    color: red;
+  }
+
+ 
+
+ #üyeol{
+    position: absolute;
+width: 200px;
+height: 76px;
+left: 3357px;
+top: 116px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 62.825px;
+line-height: 76px;
+color: #7D7D7D;
+
+ }
+
+ #üyeol:hover{
+    color: red;
+  }
+
+ 
+
+ #otel{
+  position: absolute;
+width: 128px;
+height: 76px;
+left: 91px;
+top: 326px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 62.825px;
+line-height: 76px;
+
+color: #3A3A3A;
+
+ }
+
+ #otel:hover{
+    color:#003399;
+  }
+
+ 
+
+ #tur{
+    position: absolute;
+width: 103px;
+height: 76px;
+left: 316px;
+top: 326px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 62.825px;
+line-height: 76px;
+
+color: #3A3A3A;
+ }
+
+ #tur:hover{
+    color:#003399;
+  }
+
+#gemi{
+    position: absolute;
+width: 160px;
+height: 76px;
+left: 481px;
+top: 326px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 62.825px;
+line-height: 76px;
+color: #3A3A3A;
+
+}
+
+#gemi:hover{
+    color:#003399;
+  }
+
+#ucakbileti{
+    
+position: absolute;
+width: 326px;
+height: 76px;
+left: 736px;
+top: 326px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 62.825px;
+line-height: 76px;
+
+
+color: #3A3A3A;
+
+}
+
+#ucakbileti:hover{
+    color:#003399;
+  }
+
+#erkenrez{
+    position: absolute;
+width: 589px;
+height: 76px;
+left: 1166px;
+top: 326px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 62.825px;
+line-height: 76px;
+color: #3A3A3A;
+
+}
+
+#erkenrez:hover{
+    color:#003399;
+  }
+
+#kampanyalar{
+    position: absolute;
+width: 403px;
+height: 76px;
+left: 1826px;
+top: 326px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 62.825px;
+line-height: 76px;
+
+color: #3A3A3A;
+}
+
+#kampanyalar:hover{
+    color:#003399;
+  }
+
+#arkaplan{
+  position: absolute;
+left: 0px;
+top: 460px;
+
+}
+
+#contanier{
+    box-sizing: border-box;
+
+position: absolute;
+width: 3493px;
+height: 568px;
+left: 96px;
+top: 768px;
+
+background: #003399;
+border: 1px solid #000000;
+border-radius: 20px
+}
+
+#contanierr{
+    box-sizing: border-box;
+
+position: absolute;
+width: 3278px;
+height: 132px;
+left: 219px;
+top: 825px;
+
+border: 4px solid #FFFFFF;
+border-radius: 20px;
+}
+
+#beyazcontanier{
+    position: absolute;
+width: 3328px;
+height: 279px;
+left: 169px;
+top: 1016px;
+
+background: #FFFEFE;
+border-radius: 20px;
+}
+
+
+#ara{
+    position: absolute;
+width: 311px;
+height: 279px;
+left: 3186px;
+top: 1016px;
+
+background: #13EC00;
+border-radius: 20px;
+}
+
+#aratext{
+    position: absolute;
+width: 210px;
+height: 115px;
+left: 3210px;
+top: 1106px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 85px;
+line-height: 115px;
+
+color: #FFFFFF;
+
+}
+
+#gy{
+    
+position: absolute;
+width: 334px;
+height: 63px;
+left: 394px;
+top: 1045px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 51.9395px;
+line-height: 63px;
+
+color: #003399;
+}
+
+#eroicon{
+    position: absolute;
+left: 257px;
+top: 1115px;
+
+}
+
+#erkenro{
+    position: absolute;
+width: 829px;
+height: 76px;
+left: 367px;
+top: 1122px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 62.825px;
+line-height: 76px;
+
+color: #3A3A3A;
+
+}
+
+#aracizgi{
+    position: absolute;
+    width: 279px;
+    height: 0px;
+    left: 1200px;
+    top: 1152px;
+    
+    border: 1px solid #AEAEAE;
+    transform: rotate(90deg);
+}
+
+#girist{
+    position: absolute;
+width: 275px;
+height: 63px;
+left: 1370px;
+top: 1045px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 51.9395px;
+line-height: 63px;
+
+
+
+color: #003399;
+
+}
+
+
+#tç{
+    position: absolute;
+width: 396px;
+height: 76px;
+left: 1370px;
+top: 1132px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 62.825px;
+line-height: 76px;
+
+color: #3A3A3A;
+
+}
+
+#cıkıstarihi{
+    
+position: absolute;
+width: 282px;
+height: 63px;
+left: 1900px;
+top: 1043px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 51.9395px;
+line-height: 63px;
+
+color: #003399;
+
+}
+
+#ttarihsec{
+    position: absolute;
+width: 396px;
+height: 76px;
+left: 1840px;
+top: 1137px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 62.825px;
+line-height: 76px;
+
+color: #3A3A3A;
+
+}
+
+
+#aracizgii{
+    position: absolute;
+width: 279px;
+height: 0px;
+left: 2110px;
+top: 1152px;
+
+border: 1px solid #AEAEAE;
+transform: rotate(90deg);
+}
+
+#odaicon{
+    position: absolute;
+left: 2265px;
+top: 1093px;
+
+}
+
+#kvos{
+    position: absolute;
+width: 548px;
+height: 76px;
+left: 2480px;
+top: 1133px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 62.825px;
+line-height: 76px;
+
+
+
+color: #3A3A3A;
+
+}
+
+#kisiodasayi{
+    position: absolute;
+width: 447px;
+height: 63px;
+left: 2300px;
+top: 1043px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 51.9395px;
+line-height: 63px;
+
+color: #003399;
+
+}
+
+#katman{
+    box-sizing: border-box;
+
+position: absolute;
+width: 3473px;
+height: 1731px;
+left: 116px;
+top: 1526px;
+
+border: 4px solid #A9A9A9;
+border-radius: 20px;
+}
+
+#yurticiotel{
+    position: absolute;
+width: 460px;
+height: 76px;
+left: 751px;
+top: 1636px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 62.825px;
+line-height: 76px;
+
+color: #3A3A3A;
+
+
+}
+
+#kibrisotel{
+    
+position: absolute;
+width: 421px;
+height: 76px;
+left: 2363px;
+top: 1636px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 62.825px;
+line-height: 76px;
+
+
+
+color: #3A3A3A;
+
+}
+
+#antalyaotel{
+    position: absolute;
+left: 152px;
+top: 1763px;
+}
+
+#antalyaotelyazi{
+    position: absolute;
+width: 477px;
+height: 76px;
+left: 185px;
+top: 2104px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 62.825px;
+line-height: 76px;
+
+color: #3A3A3A;
+
+}
+
+#bodrumotel{
+    position: absolute;
+left: 160px;
+top: 2232px;
+
+}
+
+#bodrumotelyazi{
+    position: absolute;
+width: 482px;
+height: 76px;
+left: 169px;
+top: 2611px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 62.825px;
+line-height: 76px;
+color: #3A3A3A;
+
+}
+
+#kemereotel{
+  position: absolute;
+left: 169px;
+top: 2789px;
+}
+
+#kemereotelyazi{
+    position: absolute;
+width: 475px;
+height: 76px;
+left: 169px;
+top: 3150px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 62.825px;
+line-height: 76px;
+
+color: #3A3A3A;
+
+}
+
+#sideotel{
+    position: absolute;
+left: 1157px;
+top: 1770px;
+
+}
+
+#sideotelleriyazi{
+    position: absolute;
+width: 376px;
+height: 76px;
+left: 1253px;
+top: 2123px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 62.825px;
+line-height: 76px;
+
+color: #3A3A3A;
+
+}
+
+#marmarisotel{
+    position: absolute;
+left: 1157px;
+top: 2237px;
+}
+
+#marmarisotelyazi{
+    position: absolute;
+width: 532px;
+height: 76px;
+left: 1157px;
+top: 2604px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 62.825px;
+line-height: 76px;
+color: #3A3A3A;
+
+}
+
+#alanyaotel{
+ position: absolute;
+left: 1157px;
+top: 2768px;
+
+}
+
+#alanyaotelyazi{
+    position: absolute;
+width: 451px;
+height: 76px;
+left: 1188px;
+top: 3135px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 62.825px;
+line-height: 76px;
+color: #3A3A3A;
+
+}
+
+#üstcizgi{
+    position: absolute;
+width: 1724px;
+height: 0px;
+left: 1100px;
+top: 2385px;
+
+border: 1px solid #7D7D7D;
+transform: rotate(90deg);
+}
+
+#magosaotel{
+  position: absolute;
+left: 2000px;
+top: 1731px;
+
+}
+
+#magosaotelyazi{
+    position: absolute;
+width: 484px;
+height: 76px;
+left: 2050px;
+top: 2085px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 62.825px;
+line-height: 76px;
+
+color: #3A3A3A;
+
+}
+
+#bafraotel{
+    position: absolute;
+left: 2000px;
+top: 2214px;
+
+}
+
+#bafraotelyazi{
+    
+position: absolute;
+width: 404px;
+height: 76px;
+left: 2050px;
+top: 2573px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 62.825px;
+line-height: 76px;
+
+
+color: #3A3A3A;
+}
+
+#kibrisbotel{
+    position: absolute;
+left: 2000px;
+top: 2754px;
+
+}
+
+#kibrisbotelyazi{
+    position: absolute;
+width: 620px;
+height: 76px;
+left: 2020px;
+top: 3127px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 62.825px;
+line-height: 76px;
+
+color: #3A3A3A;
+
+}
+
+#girneotel{
+    position: absolute;
+left: 2799px;
+top: 1736px;
+
+}
+
+#girneotelyazi{
+    position: absolute;
+width: 410px;
+height: 76px;
+left: 2896px;
+top: 2127px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 62.825px;
+line-height: 76px;
+
+color: #3A3A3A;
+
+}
+
+#lefkosaotel{
+    position: absolute;
+left: 2810px;
+top: 2199px;
+}
+
+#lefkosaotelyazi{
+    position: absolute;
+width: 483px;
+height: 76px;
+left: 2857px;
+top: 2581px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 62.825px;
+line-height: 76px;
+
+
+color: #3A3A3A;
+
+}
+
+#kibrisuotel{
+    position: absolute;
+left: 2799px;
+top: 2757px;
+}
+
+#kibrisuotelyazi{
+    
+position: absolute;
+width: 625px;
+height: 76px;
+left: 2799px;
+top: 3127px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 62.825px;
+line-height: 76px;
+
+color: #3A3A3A;
+
+}
+
+#footercolor{
+    box-sizing: border-box;
+
+position: absolute;
+width: 3674px;
+height: 1089px;
+left: 0px;
+top: 3508px;
+
+background: #003399;
+border: 1px solid #000000;
+border-radius: 20px;
+}
+
+#bilgilendirmeyazi{
+    position: absolute;
+width: 1196px;
+height: 58px;
+left: 46px;
+top: 3767px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 58px;
+color: #FFFFFF;
+
+}
+
+#epostacontanier{
+    position: absolute;
+width: 1893px;
+height: 218px;
+left: 1271px;
+top: 3683px;
+font-size: 50px;
+
+background: #FFFEFE;
+border-radius: 20px;
+}
+
+#üyeolcontanier{
+    position: absolute;
+width: 339px;
+height: 224px;
+left: 3211px;
+top: 3677px;
+
+background: #13EC00;
+border-radius: 20px;
+}
+
+#epostaadresi{
+    position: absolute;
+width: 349px;
+height: 58px;
+left: 1392px;
+top: 3763px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 58px;
+color: #7D7D7D;
+
+}
+
+#yesiluyeol{
+    position: absolute;
+width: 274px;
+height: 97px;
+left: 3246px;
+top: 3736px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 80px;
+line-height: 97px;
+color: #FFFFFF;
+
+}
+
+#footerline{
+    position: absolute;
+width: 3418px;
+height: 0px;
+left: 99px;
+top: 3959px;
+
+background: #D9D9D9;
+border: 1px solid #7D7D7D;
+}
+
+#adres{
+    position: absolute;
+width: 838px;
+height: 116px;
+left: 99px;
+top: 3980px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 58px;
+
+color: #FFFFFF;
+
+}
+
+#ytlogo{
+    position: absolute;
+left: 143px;
+top: 4093px;
+
+}
+
+#twlogo{
+    position: absolute;
+left: 360px;
+top: 4106px;
+}
+
+#fclogo{
+    position: absolute;
+left: 538px;
+top: 4110px;
+
+}
+
+#iglogo{
+    position: absolute;
+left: 667px;
+top: 4085px;
+}
+
+#trcontanier{
+    box-sizing: border-box;
+
+position: absolute;
+width: 1019px;
+height: 132px;
+left: 2531px;
+top: 4096px;
+
+border: 4px solid #FFFFFF;
+border-radius: 20px;
+}
+
+#trlogo{
+    position: absolute;
+left: 2688px;
+top: 4125px;
+
+}
+
+#trtr{
+    position: absolute;
+width: 377px;
+height: 58px;
+left: 2857px;
+top: 4129px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 58px;
+
+color: #FFFFFF;
+
+}
+
+#footerlogo{
+    position: absolute;
+left: 1545px;
+top: 4084px;
+
+}
+
+#footeryazı{
+    position: absolute;
+width: 1080px;
+height: 58px;
+left: 1198px;
+top: 4418px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 58px;
+
+color: #FFFFFF;
+}
+

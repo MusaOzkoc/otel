@@ -1,0 +1,795 @@
+#sayfa{
+    position: relative;
+width: 3674px;
+height: 4597px;
+
+background: #FFFFFF;
+}
+
+/* YUKARIDA İDSİ VERİLEN İMAGE,YAZI ,LİNE VEYA CONTANİERİN; RENGİNİ,POZİSYONUNU,
+VE MOUSE İLE ÜZERİNE GELİNCE RENK DEĞİŞTİRME ÖZELLİKLERİNİ VERDİM. */
+
+#logo{
+    position: absolute;
+left: -135px;
+top: -337px;
+
+}
+
+/* YUKARIDA İDSİ VERİLEN İMAGE,YAZI ,LİNE VEYA CONTANİERİN; RENGİNİ,POZİSYONUNU,
+VE MOUSE İLE ÜZERİNE GELİNCE RENK DEĞİŞTİRME ÖZELLİKLERİNİ VERDİM. */
+
+#anasayfadönüs{
+    position: absolute;
+    width: 309px;
+    height: 77px;
+    left: 3211px;
+    top: 301px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 64px;
+    line-height: 77px;
+    
+    color: #7D7D7D;
+}
+
+/* YUKARIDA İDSİ VERİLEN İMAGE,YAZI ,LİNE VEYA CONTANİERİN; RENGİNİ,POZİSYONUNU,
+VE MOUSE İLE ÜZERİNE GELİNCE RENK DEĞİŞTİRME ÖZELLİKLERİNİ VERDİM. */
+
+#anasayfadönüs:hover{
+ 
+    color: #003399;
+}
+
+/* YUKARIDA İDSİ VERİLEN İMAGE,YAZI ,LİNE VEYA CONTANİERİN; RENGİNİ,POZİSYONUNU,
+VE MOUSE İLE ÜZERİNE GELİNCE RENK DEĞİŞTİRME ÖZELLİKLERİNİ VERDİM. */
+
+
+#giris{
+    position: absolute;
+width: 2114px;
+height: 140px;
+left: 749px;
+top: 606px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 115.532px;
+line-height: 140px;
+
+color: #003399;
+
+}
+
+/* YUKARIDA İDSİ VERİLEN İMAGE,YAZI ,LİNE VEYA CONTANİERİN; RENGİNİ,POZİSYONUNU,
+VE MOUSE İLE ÜZERİNE GELİNCE RENK DEĞİŞTİRME ÖZELLİKLERİNİ VERDİM. */
+
+#aracontanier{
+    box-sizing: border-box;
+
+position: absolute;
+width: 2565px;
+height: 272px;
+left: 644px;
+top: 842px;
+
+border: 2px solid #000000;
+border-radius: 20px;
+}
+
+/* YUKARIDA İDSİ VERİLEN İMAGE,YAZI ,LİNE VEYA CONTANİERİN; RENGİNİ,POZİSYONUNU,
+VE MOUSE İLE ÜZERİNE GELİNCE RENK DEĞİŞTİRME ÖZELLİKLERİNİ VERDİM. */
+
+#buyutecicon{
+    position: absolute;
+left: 832px;
+top: 896px;
+
+}
+
+/* YUKARIDA İDSİ VERİLEN İMAGE,YAZI ,LİNE VEYA CONTANİERİN; RENGİNİ,POZİSYONUNU,
+VE MOUSE İLE ÜZERİNE GELİNCE RENK DEĞİŞTİRME ÖZELLİKLERİNİ VERDİM. */
+
+#arayazisi{
+    position: absolute;
+width: 1739px;
+height: 97px;
+left: 980px;
+top: 919px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 80px;
+line-height: 97px;
+
+color: #7D7D7D;
+
+}
+
+/* YUKARIDA İDSİ VERİLEN İMAGE,YAZI ,LİNE VEYA CONTANİERİN; RENGİNİ,POZİSYONUNU,
+VE MOUSE İLE ÜZERİNE GELİNCE RENK DEĞİŞTİRME ÖZELLİKLERİNİ VERDİM. */
+
+#madde1{
+    box-sizing: border-box;
+
+position: absolute;
+width: 2934px;
+height: 272px;
+left: 460px;
+top: 1283px;
+
+border: 2px solid #000000;
+border-radius: 20px;
+}
+
+/* YUKARIDA İDSİ VERİLEN İMAGE,YAZI ,LİNE VEYA CONTANİERİN; RENGİNİ,POZİSYONUNU,
+VE MOUSE İLE ÜZERİNE GELİNCE RENK DEĞİŞTİRME ÖZELLİKLERİNİ VERDİM. */
+
+#madde2{
+    box-sizing: border-box;
+
+position: absolute;
+width: 2934px;
+height: 272px;
+left: 460px;
+top: 1614px;
+
+border: 2px solid #000000;
+border-radius: 20px;
+}
+
+/* YUKARIDA İDSİ VERİLEN İMAGE,YAZI ,LİNE VEYA CONTANİERİN; RENGİNİ,POZİSYONUNU,
+VE MOUSE İLE ÜZERİNE GELİNCE RENK DEĞİŞTİRME ÖZELLİKLERİNİ VERDİM. */
+
+#madde3{
+    box-sizing: border-box;
+
+position: absolute;
+width: 2934px;
+height: 272px;
+left: 460px;
+top: 1936px;
+
+border: 2px solid #000000;
+border-radius: 20px;
+}
+
+/* YUKARIDA İDSİ VERİLEN İMAGE,YAZI ,LİNE VEYA CONTANİERİN; RENGİNİ,POZİSYONUNU,
+VE MOUSE İLE ÜZERİNE GELİNCE RENK DEĞİŞTİRME ÖZELLİKLERİNİ VERDİM. */
+
+#madde4{
+    box-sizing: border-box;
+
+position: absolute;
+width: 2934px;
+height: 272px;
+left: 460px;
+top: 2284px;
+
+border: 2px solid #000000;
+border-radius: 20px;
+}
+
+/* YUKARIDA İDSİ VERİLEN İMAGE,YAZI ,LİNE VEYA CONTANİERİN; RENGİNİ,POZİSYONUNU,
+VE MOUSE İLE ÜZERİNE GELİNCE RENK DEĞİŞTİRME ÖZELLİKLERİNİ VERDİM. */
+
+#soru1{
+    position: absolute;
+width: 589px;
+height: 97px;
+left: 538px;
+top: 1371px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 80px;
+line-height: 97px;
+color: #000000;
+}
+
+/* YUKARIDA İDSİ VERİLEN İMAGE,YAZI ,LİNE VEYA CONTANİERİN; RENGİNİ,POZİSYONUNU,
+VE MOUSE İLE ÜZERİNE GELİNCE RENK DEĞİŞTİRME ÖZELLİKLERİNİ VERDİM. */
+
+#soru2{
+    position: absolute;
+width: 1258px;
+height: 97px;
+left: 518px;
+top: 1688px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 80px;
+line-height: 97px;
+
+color: #000000;
+
+}
+
+/* YUKARIDA İDSİ VERİLEN İMAGE,YAZI ,LİNE VEYA CONTANİERİN; RENGİNİ,POZİSYONUNU,
+VE MOUSE İLE ÜZERİNE GELİNCE RENK DEĞİŞTİRME ÖZELLİKLERİNİ VERDİM. */
+
+#soru3{
+    position: absolute;
+width: 981px;
+height: 97px;
+left: 538px;
+top: 2019px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 80px;
+line-height: 97px;
+
+color: #000000;
+
+}
+
+/* YUKARIDA İDSİ VERİLEN İMAGE,YAZI ,LİNE VEYA CONTANİERİN; RENGİNİ,POZİSYONUNU,
+VE MOUSE İLE ÜZERİNE GELİNCE RENK DEĞİŞTİRME ÖZELLİKLERİNİ VERDİM. */
+
+#soru4{
+    position: absolute;
+width: 910px;
+height: 97px;
+left: 538px;
+top: 2359px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 80px;
+line-height: 97px;
+
+color: #000000;
+
+}
+
+/* YUKARIDA İDSİ VERİLEN İMAGE,YAZI ,LİNE VEYA CONTANİERİN; RENGİNİ,POZİSYONUNU,
+VE MOUSE İLE ÜZERİNE GELİNCE RENK DEĞİŞTİRME ÖZELLİKLERİNİ VERDİM. */
+
+#nokta1{
+    
+position: absolute;
+width: 104px;
+height: 104px;
+left: 3163px;
+top: 1372px;
+
+background: #D9D9D9;
+}  
+
+/* YUKARIDA İDSİ VERİLEN İMAGE,YAZI ,LİNE VEYA CONTANİERİN; RENGİNİ,POZİSYONUNU,
+VE MOUSE İLE ÜZERİNE GELİNCE RENK DEĞİŞTİRME ÖZELLİKLERİNİ VERDİM. */
+
+#öcm{
+    position: absolute;
+width: 681px;
+height: 170px;
+left: 467px;
+top: 2616px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 70px;
+line-height: 85px;
+
+color: #000000;
+
+}
+
+/* YUKARIDA İDSİ VERİLEN İMAGE,YAZI ,LİNE VEYA CONTANİERİN; RENGİNİ,POZİSYONUNU,
+VE MOUSE İLE ÜZERİNE GELİNCE RENK DEĞİŞTİRME ÖZELLİKLERİNİ VERDİM. */
+
+#belgeicon1{
+    position: absolute;
+left: 518px;
+top: 2803px;
+
+}
+
+/* YUKARIDA İDSİ VERİLEN İMAGE,YAZI ,LİNE VEYA CONTANİERİN; RENGİNİ,POZİSYONUNU,
+VE MOUSE İLE ÜZERİNE GELİNCE RENK DEĞİŞTİRME ÖZELLİKLERİNİ VERDİM. */
+
+#belgeicon2{
+    position: absolute;
+    left: 523px;
+    top: 2945px;
+    
+}
+
+/* YUKARIDA İDSİ VERİLEN İMAGE,YAZI ,LİNE VEYA CONTANİERİN; RENGİNİ,POZİSYONUNU,
+VE MOUSE İLE ÜZERİNE GELİNCE RENK DEĞİŞTİRME ÖZELLİKLERİNİ VERDİM. */
+
+#belgeicon3{
+    position: absolute;
+left: 523px;
+top: 3119px;
+
+    
+}
+
+/* YUKARIDA İDSİ VERİLEN İMAGE,YAZI ,LİNE VEYA CONTANİERİN; RENGİNİ,POZİSYONUNU,
+VE MOUSE İLE ÜZERİNE GELİNCE RENK DEĞİŞTİRME ÖZELLİKLERİNİ VERDİM. */
+
+#belgeicon4{
+    position: absolute;
+left: 523px;
+top: 3283px;
+
+    
+}
+
+/* YUKARIDA İDSİ VERİLEN İMAGE,YAZI ,LİNE VEYA CONTANİERİN; RENGİNİ,POZİSYONUNU,
+VE MOUSE İLE ÜZERİNE GELİNCE RENK DEĞİŞTİRME ÖZELLİKLERİNİ VERDİM. */
+
+#belgeicon5{
+    position: absolute;
+left: 2082px;
+top: 2787px;
+
+    
+}
+
+/* YUKARIDA İDSİ VERİLEN İMAGE,YAZI ,LİNE VEYA CONTANİERİN; RENGİNİ,POZİSYONUNU,
+VE MOUSE İLE ÜZERİNE GELİNCE RENK DEĞİŞTİRME ÖZELLİKLERİNİ VERDİM. */
+
+#belgeicon6{
+    position: absolute;
+left: 2087px;
+top: 2929px;
+}
+
+/* YUKARIDA İDSİ VERİLEN İMAGE,YAZI ,LİNE VEYA CONTANİERİN; RENGİNİ,POZİSYONUNU,
+VE MOUSE İLE ÜZERİNE GELİNCE RENK DEĞİŞTİRME ÖZELLİKLERİNİ VERDİM. */
+
+#belgeicon7{
+    position: absolute;
+left: 2087px;
+top: 3103px;
+
+}
+
+/* YUKARIDA İDSİ VERİLEN İMAGE,YAZI ,LİNE VEYA CONTANİERİN; RENGİNİ,POZİSYONUNU,
+VE MOUSE İLE ÜZERİNE GELİNCE RENK DEĞİŞTİRME ÖZELLİKLERİNİ VERDİM. */
+
+#belgeicon8{
+    position: absolute;
+left: 2087px;
+top: 3267px;
+
+}
+
+/* YUKARIDA İDSİ VERİLEN İMAGE,YAZI ,LİNE VEYA CONTANİERİN; RENGİNİ,POZİSYONUNU,
+VE MOUSE İLE ÜZERİNE GELİNCE RENK DEĞİŞTİRME ÖZELLİKLERİNİ VERDİM. */
+
+#makale1{
+    
+position: absolute;
+width: 1009px;
+height: 183px;
+left: 638px;
+top: 2778px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 61px;
+
+color: #000000;
+
+}
+
+/* YUKARIDA İDSİ VERİLEN İMAGE,YAZI ,LİNE VEYA CONTANİERİN; RENGİNİ,POZİSYONUNU,
+VE MOUSE İLE ÜZERİNE GELİNCE RENK DEĞİŞTİRME ÖZELLİKLERİNİ VERDİM. */
+
+#makale2{
+    
+position: absolute;
+width: 470px;
+height: 183px;
+left: 638px;
+top: 2920px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 61px;
+
+color: #000000;
+
+}
+
+/* YUKARIDA İDSİ VERİLEN İMAGE,YAZI ,LİNE VEYA CONTANİERİN; RENGİNİ,POZİSYONUNU,
+VE MOUSE İLE ÜZERİNE GELİNCE RENK DEĞİŞTİRME ÖZELLİKLERİNİ VERDİM. */
+
+#makale3{
+    
+position: absolute;
+width: 585px;
+height: 183px;
+left: 638px;
+top: 3094px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 61px;
+
+color: #000000;
+
+}
+
+/* YUKARIDA İDSİ VERİLEN İMAGE,YAZI ,LİNE VEYA CONTANİERİN; RENGİNİ,POZİSYONUNU,
+VE MOUSE İLE ÜZERİNE GELİNCE RENK DEĞİŞTİRME ÖZELLİKLERİNİ VERDİM. */
+
+#makale4{
+    position: absolute;
+width: 978px;
+height: 183px;
+left: 638px;
+top: 3258px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 61px;
+
+color: #000000;
+
+}
+
+/* YUKARIDA İDSİ VERİLEN İMAGE,YAZI ,LİNE VEYA CONTANİERİN; RENGİNİ,POZİSYONUNU,
+VE MOUSE İLE ÜZERİNE GELİNCE RENK DEĞİŞTİRME ÖZELLİKLERİNİ VERDİM. */
+
+#makale5{
+    position: absolute;
+width: 692px;
+height: 122px;
+left: 2202px;
+top: 2821px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 61px;
+
+color: #000000;
+
+}
+
+/* YUKARIDA İDSİ VERİLEN İMAGE,YAZI ,LİNE VEYA CONTANİERİN; RENGİNİ,POZİSYONUNU,
+VE MOUSE İLE ÜZERİNE GELİNCE RENK DEĞİŞTİRME ÖZELLİKLERİNİ VERDİM. */
+
+#makale6{
+    position: absolute;
+width: 470px;
+height: 122px;
+left: 2200px;
+top: 2920px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 61px;
+
+color: #000000;
+
+}
+
+/* YUKARIDA İDSİ VERİLEN İMAGE,YAZI ,LİNE VEYA CONTANİERİN; RENGİNİ,POZİSYONUNU,
+VE MOUSE İLE ÜZERİNE GELİNCE RENK DEĞİŞTİRME ÖZELLİKLERİNİ VERDİM. */
+
+#makale7{
+    position: absolute;
+width: 585px;
+height: 183px;
+left: 2202px;
+top: 3113px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 61px;
+
+color: #000000;
+
+}
+
+/* YUKARIDA İDSİ VERİLEN İMAGE,YAZI ,LİNE VEYA CONTANİERİN; RENGİNİ,POZİSYONUNU,
+VE MOUSE İLE ÜZERİNE GELİNCE RENK DEĞİŞTİRME ÖZELLİKLERİNİ VERDİM. */
+
+
+#makale8{
+    position: absolute;
+width: 978px;
+height: 61px;
+left: 2202px;
+top: 3289px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 61px;
+
+
+color: #000000;
+
+}
+
+/* YUKARIDA İDSİ VERİLEN İMAGE,YAZI ,LİNE VEYA CONTANİERİN; RENGİNİ,POZİSYONUNU,
+VE MOUSE İLE ÜZERİNE GELİNCE RENK DEĞİŞTİRME ÖZELLİKLERİNİ VERDİM. */
+
+#footercolor{
+    box-sizing: border-box;
+
+position: absolute;
+width: 3674px;
+height: 1089px;
+left: 0px;
+top: 3508px;
+
+background: #003399;
+border: 1px solid #000000;
+border-radius: 20px;
+}
+
+/* YUKARIDA İDSİ VERİLEN İMAGE,YAZI ,LİNE VEYA CONTANİERİN; RENGİNİ,POZİSYONUNU,
+VE MOUSE İLE ÜZERİNE GELİNCE RENK DEĞİŞTİRME ÖZELLİKLERİNİ VERDİM. */
+
+#bilgilendirmeyazi{
+    position: absolute;
+width: 1196px;
+height: 58px;
+left: 46px;
+top: 3767px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 58px;
+color: #FFFFFF;
+
+}
+
+/* YUKARIDA İDSİ VERİLEN İMAGE,YAZI ,LİNE VEYA CONTANİERİN; RENGİNİ,POZİSYONUNU,
+VE MOUSE İLE ÜZERİNE GELİNCE RENK DEĞİŞTİRME ÖZELLİKLERİNİ VERDİM. */
+
+#epostacontanier{
+    position: absolute;
+width: 1893px;
+height: 218px;
+left: 1271px;
+top: 3683px;
+
+background: #FFFEFE;
+border-radius: 20px;
+}
+
+/* YUKARIDA İDSİ VERİLEN İMAGE,YAZI ,LİNE VEYA CONTANİERİN; RENGİNİ,POZİSYONUNU,
+VE MOUSE İLE ÜZERİNE GELİNCE RENK DEĞİŞTİRME ÖZELLİKLERİNİ VERDİM. */
+
+#üyeolcontanier{
+    position: absolute;
+width: 339px;
+height: 224px;
+left: 3211px;
+top: 3677px;
+
+background: #13EC00;
+border-radius: 20px;
+}
+
+/* YUKARIDA İDSİ VERİLEN İMAGE,YAZI ,LİNE VEYA CONTANİERİN; RENGİNİ,POZİSYONUNU,
+VE MOUSE İLE ÜZERİNE GELİNCE RENK DEĞİŞTİRME ÖZELLİKLERİNİ VERDİM. */
+
+#epostaadresi{
+    position: absolute;
+width: 349px;
+height: 58px;
+left: 1392px;
+top: 3763px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 58px;
+color: #7D7D7D;
+
+}
+
+/* YUKARIDA İDSİ VERİLEN İMAGE,YAZI ,LİNE VEYA CONTANİERİN; RENGİNİ,POZİSYONUNU,
+VE MOUSE İLE ÜZERİNE GELİNCE RENK DEĞİŞTİRME ÖZELLİKLERİNİ VERDİM. */
+
+#yesiluyeol{
+    position: absolute;
+width: 274px;
+height: 97px;
+left: 3246px;
+top: 3736px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 80px;
+line-height: 97px;
+color: #FFFFFF;
+
+}
+
+/* YUKARIDA İDSİ VERİLEN İMAGE,YAZI ,LİNE VEYA CONTANİERİN; RENGİNİ,POZİSYONUNU,
+VE MOUSE İLE ÜZERİNE GELİNCE RENK DEĞİŞTİRME ÖZELLİKLERİNİ VERDİM. */
+
+#footerline{
+    position: absolute;
+width: 3418px;
+height: 0px;
+left: 99px;
+top: 3959px;
+
+background: #D9D9D9;
+border: 1px solid #7D7D7D;
+}
+
+/* YUKARIDA İDSİ VERİLEN İMAGE,YAZI ,LİNE VEYA CONTANİERİN; RENGİNİ,POZİSYONUNU,
+VE MOUSE İLE ÜZERİNE GELİNCE RENK DEĞİŞTİRME ÖZELLİKLERİNİ VERDİM. */
+
+#adres{
+    position: absolute;
+width: 838px;
+height: 116px;
+left: 99px;
+top: 3980px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 58px;
+
+color: #FFFFFF;
+
+}
+
+/* YUKARIDA İDSİ VERİLEN İMAGE,YAZI ,LİNE VEYA CONTANİERİN; RENGİNİ,POZİSYONUNU,
+VE MOUSE İLE ÜZERİNE GELİNCE RENK DEĞİŞTİRME ÖZELLİKLERİNİ VERDİM. */
+
+#ytlogo{
+    position: absolute;
+left: 143px;
+top: 4093px;
+
+}
+
+/* YUKARIDA İDSİ VERİLEN İMAGE,YAZI ,LİNE VEYA CONTANİERİN; RENGİNİ,POZİSYONUNU,
+VE MOUSE İLE ÜZERİNE GELİNCE RENK DEĞİŞTİRME ÖZELLİKLERİNİ VERDİM. */
+
+#twlogo{
+    position: absolute;
+left: 360px;
+top: 4106px;
+}
+
+/* YUKARIDA İDSİ VERİLEN İMAGE,YAZI ,LİNE VEYA CONTANİERİN; RENGİNİ,POZİSYONUNU,
+VE MOUSE İLE ÜZERİNE GELİNCE RENK DEĞİŞTİRME ÖZELLİKLERİNİ VERDİM. */
+
+#fclogo{
+    position: absolute;
+left: 538px;
+top: 4110px;
+
+}
+
+/* YUKARIDA İDSİ VERİLEN İMAGE,YAZI ,LİNE VEYA CONTANİERİN; RENGİNİ,POZİSYONUNU,
+VE MOUSE İLE ÜZERİNE GELİNCE RENK DEĞİŞTİRME ÖZELLİKLERİNİ VERDİM. */
+
+#iglogo{
+    position: absolute;
+left: 667px;
+top: 4085px;
+}
+
+/* YUKARIDA İDSİ VERİLEN İMAGE,YAZI ,LİNE VEYA CONTANİERİN; RENGİNİ,POZİSYONUNU,
+VE MOUSE İLE ÜZERİNE GELİNCE RENK DEĞİŞTİRME ÖZELLİKLERİNİ VERDİM. */
+
+#trcontanier{
+    box-sizing: border-box;
+
+position: absolute;
+width: 1019px;
+height: 132px;
+left: 2531px;
+top: 4096px;
+
+border: 4px solid #FFFFFF;
+border-radius: 20px;
+}
+
+/* YUKARIDA İDSİ VERİLEN İMAGE,YAZI ,LİNE VEYA CONTANİERİN; RENGİNİ,POZİSYONUNU,
+VE MOUSE İLE ÜZERİNE GELİNCE RENK DEĞİŞTİRME ÖZELLİKLERİNİ VERDİM. */
+
+#trlogo{
+    position: absolute;
+left: 2688px;
+top: 4125px;
+
+}
+
+/* YUKARIDA İDSİ VERİLEN İMAGE,YAZI ,LİNE VEYA CONTANİERİN; RENGİNİ,POZİSYONUNU,
+VE MOUSE İLE ÜZERİNE GELİNCE RENK DEĞİŞTİRME ÖZELLİKLERİNİ VERDİM. */
+
+#trtr{
+    position: absolute;
+width: 377px;
+height: 58px;
+left: 2857px;
+top: 4129px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 58px;
+
+color: #FFFFFF;
+
+}
+
+/* YUKARIDA İDSİ VERİLEN İMAGE,YAZI ,LİNE VEYA CONTANİERİN; RENGİNİ,POZİSYONUNU,
+VE MOUSE İLE ÜZERİNE GELİNCE RENK DEĞİŞTİRME ÖZELLİKLERİNİ VERDİM. */
+
+#footerlogo{
+    position: absolute;
+left: 1545px;
+top: 4084px;
+
+}
+
+/* YUKARIDA İDSİ VERİLEN İMAGE,YAZI ,LİNE VEYA CONTANİERİN; RENGİNİ,POZİSYONUNU,
+VE MOUSE İLE ÜZERİNE GELİNCE RENK DEĞİŞTİRME ÖZELLİKLERİNİ VERDİM. */
+
+#footeryazı{
+    position: absolute;
+width: 1080px;
+height: 58px;
+left: 1198px;
+top: 4418px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 58px;
+
+color: #FFFFFF;
+}
+
+/* YUKARIDA İDSİ VERİLEN İMAGE,YAZI ,LİNE VEYA CONTANİERİN; RENGİNİ,POZİSYONUNU,
+VE MOUSE İLE ÜZERİNE GELİNCE RENK DEĞİŞTİRME ÖZELLİKLERİNİ VERDİM. */
+
+
+
+                    
+                
+            
+        
+    
+
